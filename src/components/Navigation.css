@@ -1,0 +1,15 @@
+.Navigation .arrow{
+  width:70%;
+  margin:3% auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.Navigation .nextQ{
+  transform:rotate(180deg);
+  cursor: pointer;
+}
+.Navigation .prevQ{
+  cursor:pointer;
+}
